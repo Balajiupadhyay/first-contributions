@@ -1,6 +1,7 @@
 # Contributors
 - [Satyajit Patra] (https://github.com/SatyajitPatra06)
 - [Shahmeer malik](https://github.com/shahmeermalik1)
+- [Omkar Kulkarni](https://github.com/omkarkulkarnii)
 - [SohamKore](https://github.com/SohamKore)
 - [abedalavi](https://github.com/abedalavi)
 - [Oluwasemilore Omotade-Michaels](https://github.com/shemigam1)
@@ -118,6 +119,7 @@
 - [Mustafa Afzal](https://github.com/mafzii)
 - [Dylan Collins](https://github.com/D05Col)
 - Pokala Rohit 
+- Balajiupadhyay
 - [Tyler Collingridge] (https://github.com/tcollm)
 - [Akash Mishra] (https://github.com/akashmishrahaha)
 - [Mukund Menon] (https://github.com/CR1T1KAL16)
